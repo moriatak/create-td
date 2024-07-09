@@ -1,0 +1,23 @@
+.container {
+    background: #ffff;
+    padding: 10%;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    min-width: 50vw;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.container > *{
+  margin: 6px 2px;
+}
+.container input{
+    width: 100%;
+    padding: 10px;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 4vh;
+}
