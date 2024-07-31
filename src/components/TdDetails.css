@@ -1,6 +1,6 @@
 .container {
     background: #ffff;
-    padding: 10%;
+    padding: 5% 10%;
     text-align: right;
     display: flex;
     flex-direction: column;
@@ -20,4 +20,13 @@
     text-align: center;
     font-weight: bold;
     font-size: 4vh;
+}
+.button_save{
+    width: 100%;
+    color: #fff;
+    background-color: #4CAF50;
+}
+
+.error{
+    color: red
 }
