@@ -69,7 +69,7 @@ const TdDetails = ({tokenTd}) => {
     }, [])
 
     // The function get data from sql
-    const getDataTd = async (tokenTd = 'MLC') => { //todo delete defult
+    const getDataTd = async () => { 
         if (loading) {
             return
         }
@@ -83,7 +83,6 @@ const TdDetails = ({tokenTd}) => {
         // formData.append("get_data_of_start", "true");
         formData.append("get_data_of_start_by_id", "true");
         formData.append("apiKey", apiKey);
-        formData.append("token", tokenTd);
         formData.append("p_id", processId);
 
         try {
@@ -119,7 +118,7 @@ const TdDetails = ({tokenTd}) => {
     }
 
     // The function get data from sql
-    const saveDB = async (tokenTd = 'MLC') => { //todo delete defult
+    const saveDB = async () => { 
         if (loading) {
             return
         }
@@ -138,7 +137,6 @@ const TdDetails = ({tokenTd}) => {
         // formData.append("get_data_of_start", "true");
         formData.append("update_settings", "true");
         formData.append("apiKey", apiKey);
-        formData.append("token", tokenTd);
         formData.append("p_id", processId);
         const dataSettings = {
             Name: nameProcess,
