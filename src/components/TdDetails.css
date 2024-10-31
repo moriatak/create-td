@@ -30,3 +30,9 @@
 .error{
     color: red
 }
+
+.button_choose_image{
+    background-color: #a9c5aa7b;
+    padding: 0.2em 1em;
+    margin: 0.2em;
+}
