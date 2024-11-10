@@ -1,4 +1,5 @@
-# React + Vite
+# create-td
+React + Vite
 
 הגדרות כלליות למעטפית
 
@@ -10,3 +11,4 @@ zip -r build.zip ./dist
 להכנס למיקום:
 /home/takco/public_html/td/create_td
 שם להעלות את הקובץ ולעשות לו extract
+
