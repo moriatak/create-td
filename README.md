@@ -6,6 +6,7 @@ React + Vite
 כדי לעלות לשרת:
 
 npm run build 
+
 zip -r build.zip ./dist
 
 להכנס למיקום:
