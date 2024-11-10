@@ -22,4 +22,6 @@ zip -r build.zip ./dist
 להכנס למיקום:
 /home/takco/public_html/td/create_td
 שם להעלות את הקובץ ולעשות לו extract
+להכנס לתיקייה dist 
+לסמן את כל הקבצים ולהעביר אותם מחוץ לתיקייה dist
 
