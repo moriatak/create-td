@@ -11,6 +11,7 @@ React + Vite
  npm run dev
 
  צד שרת נמצא ב: https://tak.co.il/td/api/server.php
+וב:  https://tak.co.il/app/takzivit/portal/pages/admin_page/processes/settings_process/server.php
 
 
 כדי לעלות לשרת:
