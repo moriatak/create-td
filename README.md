@@ -3,6 +3,16 @@ React + Vite
 
 הגדרות כלליות למעטפית
 
+להרצת הפרוייקט:
+ git clone https://github.com/moriatak/create-td.git
+
+ cd create-td
+
+ npm run dev
+
+ צד שרת נמצא ב: https://tak.co.il/td/api/server.php
+
+
 כדי לעלות לשרת:
 
 npm run build 
