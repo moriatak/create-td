@@ -1,16 +1,12 @@
 # React + Vite
 
-ניסיון להתחיל צד ניהול לטפסים דיגיטליים
+הגדרות כלליות למעטפית
 
 כדי לעלות לשרת:
 
 npm run build 
 zip -r build.zip ./dist
 
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+להכנס למיקום:
+/home/takco/public_html/td/create_td
+שם להעלות את הקובץ ולעשות לו extract
